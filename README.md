@@ -15,8 +15,6 @@ Actionable Insights: Suggestions for improving sales strategies, such as promoti
 ## Files and Structure
 /data/: Contains raw sales data in CSV format, including details like timestamps, item descriptions, and total sales.
 
-/scripts/: Python scripts for data cleaning, analysis, and visualization (uses Pandas, Matplotlib, and Seaborn libraries).
-
 /reports/: Summary reports of the findings, including graphs and key insights from the analysis.
 
 ## Future Improvements
